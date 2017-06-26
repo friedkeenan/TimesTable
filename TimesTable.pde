@@ -1,8 +1,8 @@
 import java.util.List;
 import java.util.ArrayList;
 /*
-import gifAnimation.*; //Uncomment these lines, lines 64-72, and lines 133-136 to enable making a gif 
-GifMaker gif;
+import gifAnimation.*; // You need this library to use this: https://github.com/01010101/GifAnimation
+GifMaker gif; //Uncomment these lines, lines 64-72, and lines 133-136 to enable making a gif; pressing R toggles it
 */
 int radius=250; // Change this to change the size of the window
 boolean newTable=true;
