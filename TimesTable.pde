@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import gifAnimation.*; //Uncomment these lines, lines 64-72, and lines 133-136 to enable making a gif 
 GifMaker gif;
 */
-int radius=250;
+int radius=250; // Change this to change the size of the window
 boolean newTable=true;
 PVector newLoc;
 int move=-1;
